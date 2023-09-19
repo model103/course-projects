@@ -1,0 +1,7 @@
+Person(x) & Ri(m,x) & Fohl(m) & Rcd(n,x) & Solc(n) => ~Epop(x)
+Person(x) & Rlos(f,x) & N(f)  => Eooa(x)
+Person(x) & Rlos(f,x) & N(f)  => Eoop(x)
+Person(x) & Rlos(f,x) & N(f)  => Eoom(x)
+Person(x) & Dhcv(x) & Dhbv(x) & Dlc(x) & Rlos(f,x) & Increase(m) => Ei(x)
+Person(x) & Ri(m,x) & ~Fln(m) & ~Dg(x) & ~Dcld(x) & ~Dald(x) & ~Dedtog(x) & ~Dgt(x) => Elos1(x)
+Person(x) & Ri(m,x) & ~Fln(m) & ~Dg(x) & ~Dcld(x) & ~Dald(x) & ~Dedtog(x) & ~Dgt(x) => Ei1(x)
